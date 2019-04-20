@@ -2,7 +2,7 @@ import telebot
 import requests
 import re
 
-bot = telebot.TeleBot('860015546:AAHl0ahvH_kKOQQ1OXQf_LGtlAzrd4VezsI')
+bot = telebot.TeleBot('')
 
 
 def find_room(text):
